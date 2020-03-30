@@ -1,6 +1,10 @@
+
 body{ 
 background-color:#343a40;
 }
+  
+
+
 h1{ color:powderblue;
 font-size:64px
 }
@@ -8,7 +12,7 @@ p{ color:lightgray;
 font-size:24px;
 }
 img{
-    width:auto;
+   width:auto;
     height:auto;
 }
 .nav-link{
